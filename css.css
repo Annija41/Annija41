@@ -1,0 +1,42 @@
+body{
+    background: rgb(252, 249, 249);
+   }
+    .box{
+        margin: auto;
+        width: 25%;
+      height: 25%;
+     background: rgb(252, 249, 249);
+
+    }
+   .box4
+{
+  width: 20%;
+ height: 250%;
+ margin: 1%;
+ margin-left: 1%;
+ float: left;
+ background: rgb(56, 187, 85);
+}
+ 
+.clock {
+    float:left;
+  font-size: 5em;
+  margin-left: 7%;
+  margin: 5%;
+  color:rgb(199, 192, 192);
+          }
+ .box1{
+  background: rgb(199, 192, 192);
+     width: 100%;
+     height: 70%;
+ }
+ .box2{
+  background: rgb(199, 192, 192);
+     width: 100%;
+     height: 70%;
+ }
+ .box3{
+  background: rgb(199, 192, 192);
+     width: 100%;
+     height: 70%;  
+ }
